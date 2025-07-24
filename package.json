@@ -1,9 +1,48 @@
 {
+  "name": "search-airport-code",
+  "version": "0.0.1",
+  "description": "A React hook to search airport details by code or country name.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "airport",
+    "search",
+    "airport code",
+    "country airport",
+    "useAirport",
+    "airport search"
+  ],
+  "author": "Swapon Saha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cseswapon/search-airport-code"
+  },
+  "bugs": {
+    "url": "https://github.com/cseswapon/search-airport-code/issues"
+  },
+  "homepage": "https://github.com/cseswapon/search-airport-code#readme",
   "dependencies": {
-    "react": "^19.1.0"
+    "react": "^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
-    "@types/react": "^19.1.8",
-    "typescript": "^5.8.3"
+    "typescript": "^5.4.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "eslint": "^9.0.0",
+    "@eslint/js": "^9.0.0",
+    "eslint-plugin-react-hooks": "^5.1.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0 || ^19.0.0"
   }
 }

@@ -144,7 +144,7 @@ npm publish --access public
 **Swapon Saha**
 
 * 🔗 GitHub: [@cseswapon](https://github.com/cseswapon)
-* 📦 npm: [use-airport-hook](https://www.npmjs.com/package/use-airport-hook)
+* 📦 npm: [search-airport-code](https://www.npmjs.com/package/search-airport-code)
 
 ---
 

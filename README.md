@@ -5,7 +5,7 @@ Sure bro! Here's a complete, polished, and professional `README.md` file for you
 ### ✅ `README.md`
 
 ````markdown
-# ✈️ use-airport-hook
+# ✈️ search-airport-code
 
 A simple and powerful React hook for searching airport details by **airport code** or **country name**.  
 Lightweight, debounced, and compatible with both **JavaScript** and **TypeScript** React projects.
@@ -17,13 +17,13 @@ Lightweight, debounced, and compatible with both **JavaScript** and **TypeScript
 Using npm:
 
 ```bash
-npm install use-airport-hook
+npm install search-airport-code
 ````
 
 Using yarn:
 
 ```bash
-yarn add use-airport-hook
+yarn add search-airport-code
 ```
 
 ---
@@ -32,7 +32,7 @@ yarn add use-airport-hook
 
 ```tsx
 import React, { useState } from 'react';
-import { useAirport } from 'use-airport-hook';
+import { useAirport } from 'search-airport-code';
 
 export default function AirportSearchComponent() {
   const [query, setQuery] = useState('');

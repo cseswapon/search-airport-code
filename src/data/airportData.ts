@@ -99074,7 +99074,7 @@ export const airportDetails = [
     country_code: "MD",
     airport_code: "RMO",
     airport_name: "Chisinau International Airport",
-    country_loc: "Moldova, Bangladesh",
+    country_loc: "Moldova, Italy",
     iata: "RMO",
     format: "RMO, Chisinau International Airport",
     location: "Moldova",

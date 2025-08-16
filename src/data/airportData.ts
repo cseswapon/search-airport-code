@@ -99079,4 +99079,15 @@ export const airportDetails = [
     format: "RMO, Chisinau International Airport",
     location: "Moldova",
   },
+  {
+    _id: "67b9d2b7238901a3ebde6c5d",
+    country_name: "Kyrgyzstan",
+    country_code: "KG",
+    airport_code: "BSZ",
+    airport_name: "Manas International Airport",
+    country_loc: "Sokuluk District, near Bishkek, Kyrgyzstan",
+    iata: "BSZ",
+    format: "BSZ, Manas International Airport",
+    location: "Bishkek, Kyrgyzstan",
+  },
 ];

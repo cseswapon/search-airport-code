@@ -1,6 +1,6 @@
 {
   "name": "search-airport-code",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A React hook to search airport details by code or country name.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

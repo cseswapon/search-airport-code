@@ -1,7 +1,3 @@
-Sure bro! Here's a complete, polished, and professional `README.md` file for your `use-airport-hook` package:
-
----
-
 ### ✅ `README.md`
 
 ````markdown
